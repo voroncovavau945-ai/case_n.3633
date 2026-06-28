@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<title> case №3633 </title>
+</head>
+<body style="background-color: #b39681;">
+   <h1> ɸоᴛо объᴇᴋᴛᴀ </h1>
+<img src="sorel.jpg.jpg" alt="sorel"
+width="15%"> </img>
+</body>
+</html>
